@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "354626789522",
+    "project_id": "excelagrisolutions-d0757",
+    "storage_bucket": "excelagrisolutions-d0757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354626789522:android:37736b9d4594b10d01c64b",
+        "android_client_info": {
+          "package_name": "com.example.excelagrisolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354626789522-p1sid4v9ddfbb7gsdtkm8875gno31dnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.excelagrisolutions",
+            "certificate_hash": "db27ae2358380236185d6807198e6384353e26ae"
+          }
+        },
+        {
+          "client_id": "354626789522-bduktv534r3raahgd983lvo0qr0gbg30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSU02pDXkoC0TVu3xbYR39X04zRLN_34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354626789522-bduktv534r3raahgd983lvo0qr0gbg30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
